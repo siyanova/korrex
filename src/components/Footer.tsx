@@ -6,7 +6,7 @@ import Image from "next/image";
 
 export const Footer = () => {
   return (
-    <div className="flex flex-row gap-24 px-10 mt-2">
+    <div className="flex pb-2 flex-row gap-24 px-10 mt-2">
       <div className="flex flex-col ">
         <p className="mb-2">Производство</p>
         <Link href={"/"}>Упаковка для тортов и пирожных</Link>

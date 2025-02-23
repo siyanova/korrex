@@ -29,7 +29,7 @@ export default function Home() {
             <tr>
               <td>
                 <Link
-                  href={"/"}
+                  href={"/catalog"}
                   className="gap-5 flex flex-col p-5 items-center"
                 >
                   <Image src={Cake} alt="Cake" />
@@ -38,7 +38,7 @@ export default function Home() {
               </td>
               <td>
                 <Link
-                  href={"/"}
+                  href={"/catalog"}
                   className="gap-5 flex flex-col p-5 items-center"
                 >
                   <Image src={Cookies} alt="Cookies" />
@@ -47,7 +47,7 @@ export default function Home() {
               </td>
               <td>
                 <Link
-                  href={"/"}
+                  href={"/catalog"}
                   className="gap-5 flex flex-col p-5 items-center"
                 >
                   <Image src={Eggs} alt="Eggs" />
@@ -56,7 +56,7 @@ export default function Home() {
               </td>
               <td>
                 <Link
-                  href={"/"}
+                  href={"/catalog"}
                   className="gap-5 flex flex-col p-5 items-center"
                 >
                   <Image src={Sushi} alt="Sushi" />
@@ -65,7 +65,7 @@ export default function Home() {
               </td>
               <td>
                 <Link
-                  href={"/"}
+                  href={"/catalog"}
                   className="gap-5 flex flex-col p-5 items-center"
                 >
                   <Image src={Mushrooms} alt="Mushrooms" />
@@ -74,7 +74,7 @@ export default function Home() {
               </td>
               <td>
                 <Link
-                  href={"/"}
+                  href={"/catalog"}
                   className="gap-5 flex flex-col p-5 items-center"
                 >
                   <Image src={Prom} alt="Prom" />
@@ -96,7 +96,7 @@ export default function Home() {
             стала подложка для конфет «коррекс», что и дало название фирме.
             Проделав большой путь от первых ручных станков собственной
             разработки, до лучших европейских производственных линий, на сегодня
-            Коррекс – предприятие полного цикла выпуска упаковки.{" "}
+            Коррекс – предприятие полного цикла выпуска упаковки.
           </p>
           <p className="text-[#202224] mb-3">
             Мы готовы разработать пластиковую упаковку по любым требованиям,
